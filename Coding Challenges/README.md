@@ -1,6 +1,6 @@
 _**Hour of Python - Coding Challenges**_
 
->These challenges are learnt from a [playlist](https://www.youtube.com/playlist?list=PL-J2q3Ga50oNtwHVWiN4qtEhYrWkGMsCD) of a YouTube Channel (_Clever Programmer_).
+>These challenges are found from a [playlist](https://www.youtube.com/playlist?list=PL-J2q3Ga50oNtwHVWiN4qtEhYrWkGMsCD) of a YouTube Channel (_Clever Programmer_).
 
 1. **lowercase and uppercase**: Make a function that converts the entire string: a) to lowercase and b) to uppercase.
 2. **Switch Case**: Make a Function that converts the uppercase to lowercase and vice versa.
@@ -14,3 +14,4 @@ _**Hour of Python - Coding Challenges**_
 10. **Morse Code**: Make a function that returns the morse code of an input string.
 
 Thank you! _:)_
+
