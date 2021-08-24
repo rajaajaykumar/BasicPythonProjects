@@ -1,8 +1,8 @@
 _**Hour of Python - Coding Challenges**_
 
->These challenges are found from a [playlist](https://www.youtube.com/playlist?list=PL-J2q3Ga50oNtwHVWiN4qtEhYrWkGMsCD) of a YouTube Channel (_Clever Programmer_).
+>These challenges are inspired from a [playlist](https://www.youtube.com/playlist?list=PL-J2q3Ga50oNtwHVWiN4qtEhYrWkGMsCD) on YouTube.
 
-1. **lowercase and uppercase**: Make a function that converts the entire string: a) to lowercase and b) to uppercase.
+1. **lowercase and uppercase**: Make a function that converts the entire string: a) to lowercase, and b) to uppercase.
 2. **Switch Case**: Make a Function that converts the uppercase to lowercase and vice versa.
 3. **Aardvark Zebra Index**: Make a function that prints _Aarkvard_ if a input string starts with letter "a", else print _zebra_.
 4. **Reverse Slicing**: Make a function that prints the string in reverse format.
@@ -13,5 +13,5 @@ _**Hour of Python - Coding Challenges**_
 9. **IN States**: Make a function that returns the name of Indian State based on an input acronym.
 10. **Morse Code**: Make a function that returns the morse code of an input string.
 
-Thank you! _:)_
+Thank you for checking it out! :)
 
